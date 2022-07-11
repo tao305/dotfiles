@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = toyemmy@gmail.com
+	name = tommy jaja
